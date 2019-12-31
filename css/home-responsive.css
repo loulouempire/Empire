@@ -20,11 +20,9 @@ and (min-width: 0px){
 }
 .inlineBlock{
   display: inline-block;
-  background: red;
 }
 .centerRow4Title{
   width: 200px!important;
-  background: green;
   margin: auto!important;
 }
 .marginUp{
