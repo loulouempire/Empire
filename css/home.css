@@ -34,8 +34,11 @@ header{
 header .companyname{
   font-weight: bold;
   font-size: 11px;
+  position: absolute;
+  top: 20px;
 }
 .logo-side{
+  position: relative;
   margin-left: 20px;
 }
 .logo-side img{
