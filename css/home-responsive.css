@@ -1,0 +1,35 @@
+@media screen and (max-width: 410px)
+and (min-width: 0px){
+  .page-links{
+    display: none;
+  }
+  .menu-btn{
+    display: block!important;
+  }
+  .responsive-cols{
+    width: 44%;
+  }
+}
+
+.moveSocial{
+  left: 61%!important;
+}
+
+.fullWidth{
+  width: 100%;
+}
+.inlineBlock{
+  display: inline-block;
+  background: red;
+}
+.centerRow4Title{
+  width: 200px!important;
+  background: green;
+  margin: auto!important;
+}
+.marginUp{
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 8px 0;
+  border-top: 0.5px solid;
+}
